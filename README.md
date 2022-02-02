@@ -1,4 +1,4 @@
 # FitBegin
-Site for presenting a company that offers fitness advice.\n
--Realized with bootstraps\n
--Contains database table for enrollments
+Site for presenting a company that offers fitness advice.<br />
+-Realized with bootstraps<br />
+-Contains database table for enrollments<br />
