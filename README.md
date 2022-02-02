@@ -1,2 +1,4 @@
 # FitBegin
-bootstrap webpage neatly presenting a fitness-guidance site
+Site for presenting a company that offers fitness advice.
+-Realized with bootstraps
+-Contains database table for enrollments
